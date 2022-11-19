@@ -12,10 +12,12 @@ Instagram Account Generator
 Mail Verifed Generator
 - Source Code: $75
 - Lifetime EXE: $25
+
 Discord Member Booster
 - Source Code: $100 
 - Monthly : $15
 - Lifetime EXE: $50
+
 Bypass
 - Hcaptcha bypass Source 75$
   ByPass Time : 1.23 Sec
@@ -25,13 +27,18 @@ Contact me! "Dorukuz#4555"
 
 Axi Boost Tool / Booster Made By Dorukuz#4555
 
+# Features
 
-
+Boost a server
+Edit your stock    
+Info On Token
+Fast Token Checker
 
 # How to use
 
-WILL NOT WORK WITHOUT API KEY
+WILL NOT WORK WITHOUT Capmonster API KEY
 WILL NOT WORK WITHOUT BALANCE ON CAPMONSTER
+put your token(s) in tokens.txt
 put your [CapMonster](https://capmonster.cloud) key in settings.json .
 ```json
     "Capmonster_apikey": "Put your capmonster api key here!"
