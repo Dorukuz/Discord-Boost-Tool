@@ -2,6 +2,7 @@
 # Discord-Boost-Tool
 
 Telegram Channel: https://t.me/AxiDevelopment
+Discord server: https://discord.gg/t2uCTEMqGD
 
 Contact me! "Axi#1510"
             https://t.me/Dorukuz
@@ -37,6 +38,7 @@ put your [CapMonster](https://capmonster.cloud) key in settings.json.
 
 You can contact me from:
 Discord: Axi#1510
+Discord server: https://discord.gg/t2uCTEMqGD
 Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
