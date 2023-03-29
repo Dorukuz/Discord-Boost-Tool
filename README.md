@@ -5,7 +5,7 @@ Telegram Channel: https://t.me/AxiDevelopment
 
 Contact me! https://t.me/Dorukuz
 
-Axi Boost Tool / Booster Made By Axi#1510
+Axi Boost Tool / Booster Made By Dorukuz
 
 # Features
 
