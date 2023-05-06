@@ -5,7 +5,7 @@ Telegram Channel: https://t.me/AxiDevelopment
 
 Contact me! https://t.me/Dorukuz
 
-Discord : Dorukuz#4555
+Discord : Dorukuz#2351
 
 https://axi-shop.tebex.io
 
