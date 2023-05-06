@@ -19,7 +19,7 @@ from datetime import datetime
 import time
 
 
-ctypes.windll.kernel32.SetConsoleTitleW("Axi Panel || STATUS: Online ")
+ctypes.windll.kernel32.SetConsoleTitleW("Axi Panel | Made By Dorukuz#2351 | STATUS: Online ")
 
 y = Fore.LIGHTYELLOW_EX
 b = Fore.LIGHTBLUE_EX
@@ -199,7 +199,7 @@ def menu():
     global done
     banner2 = f'''
 
-{b}            Axi - - - - - - - -Discord .gg/qQrMUXp2M2 - - - - - - - - Axi
+{b}            Axi - - - - - - - -Dorukuz#2351 - - - - - - - - Axi
 
                                   /$$$$$$            /$$
                                  /$$__  $$          |__/
@@ -213,7 +213,7 @@ def menu():
                         
                         
 
-{b}            Axi - - - - - - - -Discord .gg/qQrMUXp2M2 - - - - - - - - Axi
+{b}            Axi - - - - - - - -Dorukuz#2351 - - - - - - - - Axi
                         
 
     {w}[{b}1{w}] {w}Boost a server                       
