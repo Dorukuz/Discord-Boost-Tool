@@ -1,13 +1,15 @@
 
 # Discord-Boost-Tool
 
+Monthly 20$ Exe file (Lifetime) 75$ Source code 250$
+
+CRYPTO AND CREDIT CARD(Gift Card) PAYMENT ONLY
+
+https://t.me/Dorukuz
+
 Telegram Channel: https://t.me/AxiDevelopment
 
 Contact me! https://t.me/Dorukuz
-
-Discord : Dorukuz#2351
-
-https://axi-shop.tebex.io
 
 Axi Boost Tool / Booster Made By Dorukuz
 
