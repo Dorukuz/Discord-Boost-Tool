@@ -41,7 +41,6 @@ put your [CapMonster](https://capmonster.cloud) key in settings.json.
 # CONTACT / HELP
 
 You can contact me from:
-Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
 
