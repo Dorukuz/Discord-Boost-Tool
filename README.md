@@ -1,15 +1,18 @@
 
 # Discord-Boost-Tool
 
-Monthly 20$ Exe file (Lifetime) 75$ Source code 250$
+New Discord ID IP grabber!
+A tool to find ip from a user’s discord ID!
 
-CRYPTO AND CREDIT CARD(Gift Card) PAYMENT ONLY
+Limited Acces!
+
+Monthly 50$ 
+Lifetime 200$
+Source code 500$
+
+Crypto payment only!
 
 https://t.me/Dorukuz
-
-Telegram Channel: https://t.me/AxiDevelopment
-
-Contact me! https://t.me/Dorukuz
 
 Axi Boost Tool / Booster Made By Dorukuz
 
