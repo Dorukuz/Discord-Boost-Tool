@@ -1,122 +1,85 @@
-
 # Discord-Boost-Tool
 
-NEW PRICE LIST AND NEW TOOLS!
+**Latest Update:** Check out our new price list and newly added tools!
 
-Discord Mail And Phone Verified Token Generator
-You only need proxy and onlinesim.io balance.
-Mail verification and AI Captcha solver is included
+## Tool Offerings
 
-Discord Mail And Phone Verified Token Generator Monthly - $35.00
+### Discord Token Generators
+- **Mail and Phone Verified Token Generator**
+  - **Monthly**: $35.00
+  - **Lifetime**: $150.00
+  - **Source Code**: $500.00
+  - *Requirements*: Proxy and onlinesim.io balance. Includes mail verification and AI captcha solver.
 
-Discord Mail And Phone Verified Token Generator Lifetime - $150.00
+- **Mail Verified Token Generator**
+  - **Monthly**: $20.00
+  - **Lifetime**: $70.00
+  - **Source Code**: $150.00
+  - *Requirements*: Proxy only. Includes mail verification and AI captcha solver.
 
-Discord Mail And Phone Verified Token Generator Source Code - $500.00
+### Discord Member Boosters
+- **AI Solver Member Booster**
+  - **Monthly**: $20.00
+  - **Lifetime**: $75.00
+  - **Source Code**: $250.00
+  - *Requirements*: Proxy only.
 
-Discord Mail Verified Token Generator
-You only need proxy!
-Mail verification and AI Captcha solver is included
+- **Standard Member Booster**
+  - **Monthly**: $15.00
+  - **Lifetime**: $45.00
+  - **Source Code**: $100.00
+  - *Requirements*: Proxy and CapMonster balance.
 
-Discord Mail Verified Token Generator Monthly - $20.00
+### Instagram Account Generators
+- **Source Code**: $250.00
+- **Lifetime**: $55.00
+- **Monthly**: $15.00
 
-Discord Mail Verified Token Generator Lifetime - $70.00
+### Additional Tools
+- **Discord Vanity URL Sniper (Lifetime)**: $15.00
+- **Discord ID IP Grabber**
+  - **Monthly**: $30.00
+  - **Lifetime**: $100.00
+  - **Source Code**: $250.00
+- **AI Solver**
+  - **Monthly**: $50.00
+  - **Lifetime**: $250.00
+  - **Source Code**: $500.00
+- **TikTok Username Checker (Lifetime)**: $35.00
 
-Discord Mail Verified Token Generator Source Code - $150.00
+### Proxy Packages
+- **5GB Residential Proxies**: $20
+- **10GB Residential Proxies**: $30
+- **20GB Residential Proxies**: $45
+- **40GB Residential Proxies**: $70
+- **Additional GB (for orders over 60GB)**: $1.5 per GB
 
-Discord Member Booster (Ai solver)
-You only need proxy!
+## Features
 
-Discord Booster Monthly (Ai solver) - $20.00
+- Boost a server
+- Edit your stock
+- Info on Token
+- Fast Token Checker
 
-Discord Member Booster Lifetime (Ai solver) - $75.00
+## How to Use
 
-Discord Member Booster Source Code (Ai solver) - $250.00
+**Important:** The tool will not operate without a CapMonster API key and a balance on CapMonster.
 
-Discord Member Booster
-You need proxy and capmonster balance
-
-Discord Booster Monthly - $15.00
-
-Discord Member Booster Lifetime - $45.00
-
-Discord Member Booster Source Code - $100.00
-
-Instagram Generators
-
-Instagram Account Generator Source Code  - $250.00
- 
-Instagram Account Generator - $55.00
- 
-Instagram Account Generator Monthly - $15.00
-
-Discord Tools
-
-Discord vanity URL sniper Lifetime - $15.00
- 
-Discord ID IP grabber Monthly - $30
- 
-Discord ID IP grabber Lifetime - $100
- 
-Discord ID IP grabber Source code  - $250.00
-
-Others
-
-AI Solver Monthly - $50
- 
-AI Solver Lifetime - $250
- 
-AI Solver Source code  - $500
-
-Tiktok username checker Lifetime - $35.00
-
-Proxy
-
-5GB Residential proxies 20$
-
-10GB Residential proxies 30$
-
-20GB Residential proxies 45$
-
-40GB Residential proxies 70$
-
-$1.5 Per 1GB for orders that are higher than 60GB
-
-https://t.me/Dorukuz
-
-Axi Boost Tool / Booster Made By Dorukuz
-
-# Features
-
-
-Boost a server
-
-Edit your stock   
-
-Info On Token
-
-Fast Token Checker
-
-# How to use
-
-WILL NOT WORK WITHOUT Capmonster API KEY
-
-WILL NOT WORK WITHOUT BALANCE ON CAPMONSTER
-
-put your token(s) in tokens.txt
-
-put your [CapMonster](https://capmonster.cloud) key in settings.json.
+1. Save your tokens in `tokens.txt`.
+2. Store your CapMonster key in `settings.json`:
 
 ```json
-    "Capmonster_apikey": "Put your capmonster api key here!"
+{
+    "Capmonster_apikey": "Put your Capmonster API key here!"
+}
 ```
+## Contact and Support
 
-# CONTACT / HELP
+Should you require any assistance or wish to inquire further about our tools, please do not hesitate to contact us via:
+- **Telegram**: [Reach out on Telegram](https://t.me/dorukuz)
+- **ICQ**: [Connect on ICQ](https://icq.im/Dorukuz)
+- **Telegram Channel for Latest Updates**: [AxiDevelopment](https://t.me/AxiDevelopment)
 
-You can contact me from:
-Telegram: https://t.me/dorukuz
-ICQ: https://icq.im/Dorukuz
+## Disclaimer
 
-Telegram Channel: https://t.me/AxiDevelopment
-# DISCLAIMER
-
-## This github repo is for EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.
+**For Educational Purposes Only**: The content and tools in this repository are provided strictly for educational purposes. The creator assumes no responsibility for any misuse or illegal activities that utilize the tools or information provided here.
