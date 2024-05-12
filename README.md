@@ -1,4 +1,6 @@
 # Discord-Boost-Tool
+**OUTDATED**
+
 
 **Latest Update:** Check out our new price list and newly added tools!
 
