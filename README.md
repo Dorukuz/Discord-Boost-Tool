@@ -4,18 +4,6 @@
 
 **Latest Update:** Check out our new price list and newly added tools!
 
-## New TOOL to mine BTC wallet!
-The program that you see in TikTok etc. (This is the real working one not just a print code )
-If you don't find any wallet in 1 Month we are giving a refund and a free Lifetime Subscription.
-
-BTC Wallet Miner (FWM V1) Monthly - $50
- 
-BTC Wallet Miner (FWM V1)  Lifetime - $350
- 
-BTC Wallet Miner (FWM V1)  Source code  - $500
-
--All crypto coins are accepted-
-https://t.me/Dorukuz
 ## Features
 
 - Boost a server
