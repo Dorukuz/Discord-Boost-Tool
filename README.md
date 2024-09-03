@@ -1,3 +1,5 @@
+[Check out Proxyscrape for the Cheapest and Highest Quality Proxies.](https://proxyscrape.com/?ref=nde4yti)
+
 # Discord-Boost-Tool
 **OUTDATED**
 
